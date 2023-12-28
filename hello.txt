@@ -1,7 +1,4 @@
 <<<<<<< HEAD
 hello wangwan!
-=======
 hello git!
-
 hello world!
->>>>>>> hot-fix
